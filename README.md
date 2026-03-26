@@ -34,35 +34,6 @@ Interested in **AI alignment**, **retrieval-augmented generation**, and building
 
 ---
 
-### `> ls featured/`
-
-<table>
-<tr>
-<td width="100%">
-
-#### 🔍 [Retrieval-engine-RAG-](https://github.com/Puneeth-RV/Retrieval-engine-RAG-)
-> RAG pipeline for intelligent document retrieval over large corpora.  
-> Built with **LlamaIndex · Qdrant · Hugging Face**  
-> *Turning unstructured docs into answers you can actually cite.*
-
-</td>
-</tr>
-</table>
-
----
-
-### `> ls projects/`
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**log-monitor-NT**](https://github.com/Puneeth-RV/log-monitor-NT) | LogLens — Real-time log monitoring & alerting dashboard with pattern detection, risk scoring, and live streaming | FastAPI · Pandas · Chart.js |
-| [**QuickCraft**](https://github.com/Puneeth-RV/QuickCraft) | Python utility project | Python |
-| [**RipePick**](https://github.com/Puneeth-RV/RipePick) | Kotlin-based application | Kotlin |
-| [**Omkar-Acedemy**](https://github.com/Puneeth-RV/Omkar-Acedemy) | Web platform | CSS · HTML |
-| [**ApexPlanet-Webdev-internship**](https://github.com/Puneeth-RV/ApexPlanet-Webdev-internship) | Web dev internship work | PHP |
-
----
-
 ### `> echo $STACK`
 
 <div align="center">
